@@ -322,4 +322,4 @@ def run_esau_williams_with_hop_limit(filename, W=15, max_hop=4):
 
 # --- CHẠY THẬT với file mentor_groups.json --- #
 if __name__ == "__main__":
-    run_esau_williams_with_hop_limit("mentor_groups.json", W=15, max_hop=4)
+    run_esau_williams_with_hop_limit("mentor_groups.json", W=15, max_hop=2)
