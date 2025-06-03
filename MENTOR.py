@@ -26,7 +26,7 @@ def calculate_distance(n1, n2):
 def calculate_max_distance(nodes):
     max_dist = 0
     for i in range(len(nodes)):
-        for j in range(i + 1, len(nodes)):
+        for j in range(i +1, len(nodes)):
             dist = calculate_distance(nodes[i], nodes[j])
             if dist > max_dist:
                 max_dist = dist
@@ -48,7 +48,7 @@ def initialize_network():
         37: 5, 42: 5, 47: 5,
         57: 3, 45: 3, 8: 3
     }
-    for i in range(1, NUM_NODES + 1):
+    for i in range(1, NUM_NODES ):
         x = random.randint(0, MAX_COORD)
         y = random.randint(0, MAX_COORD)
         weight = special_weights.get(i, 1)

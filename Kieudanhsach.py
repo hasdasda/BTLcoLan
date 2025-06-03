@@ -21,7 +21,7 @@ for i in range(n_nodes):
 # Xuất ra file CSV
 with open("edge_list.csv", "w", newline="") as f:
     writer = csv.writer(f)
-    writer.writerow(["Node1", "Node2", "Weight"])
+    writer.writerow(["Node1", "Node2", "Distance"])
     writer.writerows(edges)
 
 print("Đã lưu danh sách cạnh vào file 'edge_list.csv'.")

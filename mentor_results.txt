@@ -1,0 +1,131 @@
+KẾT QUẢ THUẬT TOÁN MENTOR
+==================================================
+Tham số: W_THRESHOLD=2, R=0.3, C=14
+
+
+CÂY TRUY NHẬP 1:
+  Backbone: Node 3 (w=30, x=146, y=950)
+  Access nodes (14):
+    1. Node 10 (w=1, x=79, y=722)
+    2. Node 13 (w=1, x=57, y=806)
+    3. Node 14 (w=1, x=341, y=643)
+    4. Node 15 (w=1, x=430, y=870)
+    5. Node 22 (w=6, x=357, y=669)
+    6. Node 25 (w=1, x=240, y=631)
+    7. Node 27 (w=1, x=33, y=919)
+    8. Node 30 (w=1, x=114, y=791)
+    9. Node 37 (w=5, x=303, y=825)
+    10. Node 44 (w=1, x=146, y=778)
+    11. Node 45 (w=3, x=381, y=760)
+    12. Node 48 (w=1, x=385, y=748)
+    13. Node 67 (w=1, x=230, y=800)
+    14. Node 80 (w=1, x=289, y=709)
+
+CÂY TRUY NHẬP 2:
+  Backbone: Node 12 (w=30, x=9, y=512)
+  Access nodes (16):
+    1. Node 5 (w=1, x=310, y=413)
+    2. Node 6 (w=4, x=291, y=367)
+    3. Node 21 (w=1, x=11, y=357)
+    4. Node 28 (w=1, x=185, y=191)
+    5. Node 38 (w=1, x=67, y=519)
+    6. Node 41 (w=1, x=338, y=514)
+    7. Node 46 (w=1, x=312, y=497)
+    8. Node 50 (w=1, x=250, y=430)
+    9. Node 66 (w=1, x=149, y=319)
+    10. Node 70 (w=1, x=120, y=164)
+    11. Node 76 (w=1, x=234, y=469)
+    12. Node 77 (w=4, x=11, y=253)
+    13. Node 85 (w=1, x=77, y=342)
+    14. Node 89 (w=1, x=181, y=443)
+    15. Node 93 (w=1, x=203, y=480)
+    16. Node 95 (w=1, x=44, y=544)
+
+CÂY TRUY NHẬP 3:
+  Backbone: Node 29 (w=30, x=934, y=90)
+  Access nodes (12):
+    1. Node 11 (w=1, x=734, y=194)
+    2. Node 18 (w=1, x=769, y=279)
+    3. Node 40 (w=1, x=961, y=458)
+    4. Node 58 (w=1, x=898, y=394)
+    5. Node 61 (w=1, x=740, y=285)
+    6. Node 62 (w=1, x=579, y=34)
+    7. Node 73 (w=1, x=884, y=311)
+    8. Node 74 (w=1, x=986, y=189)
+    9. Node 87 (w=1, x=993, y=139)
+    10. Node 90 (w=1, x=893, y=115)
+    11. Node 91 (w=1, x=888, y=160)
+    12. Node 99 (w=1, x=997, y=358)
+
+CÂY TRUY NHẬP 4:
+  Backbone: Node 69 (w=30, x=795, y=189)
+  Access nodes (13):
+    1. Node 2 (w=1, x=806, y=526)
+    2. Node 17 (w=6, x=983, y=494)
+    3. Node 19 (w=1, x=449, y=112)
+    4. Node 24 (w=1, x=479, y=252)
+    5. Node 36 (w=1, x=771, y=492)
+    6. Node 56 (w=1, x=495, y=201)
+    7. Node 59 (w=1, x=588, y=391)
+    8. Node 65 (w=1, x=449, y=206)
+    9. Node 68 (w=1, x=845, y=509)
+    10. Node 71 (w=1, x=524, y=269)
+    11. Node 72 (w=1, x=947, y=497)
+    12. Node 84 (w=1, x=748, y=480)
+    13. Node 97 (w=1, x=564, y=187)
+
+CÂY TRUY NHẬP 5:
+  Backbone: Node 49 (w=6, x=373, y=597)
+  Access nodes (14):
+    1. Node 7 (w=1, x=590, y=627)
+    2. Node 9 (w=1, x=534, y=918)
+    3. Node 16 (w=1, x=421, y=520)
+    4. Node 35 (w=1, x=376, y=393)
+    5. Node 43 (w=1, x=480, y=640)
+    6. Node 47 (w=5, x=478, y=718)
+    7. Node 51 (w=1, x=514, y=491)
+    8. Node 53 (w=1, x=528, y=720)
+    9. Node 54 (w=1, x=663, y=742)
+    10. Node 55 (w=1, x=427, y=394)
+    11. Node 64 (w=1, x=444, y=534)
+    12. Node 75 (w=1, x=679, y=616)
+    13. Node 79 (w=1, x=515, y=850)
+    14. Node 94 (w=1, x=432, y=430)
+
+CÂY TRUY NHẬP 6:
+  Backbone: Node 42 (w=5, x=128, y=74)
+  Access nodes (10):
+    1. Node 1 (w=1, x=257, y=154)
+    2. Node 8 (w=3, x=109, y=100)
+    3. Node 20 (w=1, x=332, y=187)
+    4. Node 31 (w=1, x=359, y=16)
+    5. Node 32 (w=1, x=260, y=0)
+    6. Node 34 (w=1, x=38, y=112)
+    7. Node 57 (w=3, x=120, y=20)
+    8. Node 81 (w=1, x=319, y=157)
+    9. Node 96 (w=1, x=235, y=163)
+    10. Node 100 (w=1, x=216, y=64)
+
+CÂY TRUY NHẬP 7:
+  Backbone: Node 63 (w=4, x=921, y=724)
+  Access nodes (13):
+    1. Node 4 (w=1, x=654, y=926)
+    2. Node 23 (w=1, x=992, y=889)
+    3. Node 26 (w=1, x=930, y=889)
+    4. Node 33 (w=1, x=991, y=679)
+    5. Node 39 (w=1, x=866, y=976)
+    6. Node 52 (w=1, x=773, y=619)
+    7. Node 60 (w=1, x=850, y=576)
+    8. Node 78 (w=1, x=880, y=733)
+    9. Node 83 (w=1, x=755, y=908)
+    10. Node 86 (w=1, x=797, y=633)
+    11. Node 88 (w=1, x=823, y=626)
+    12. Node 92 (w=1, x=969, y=709)
+    13. Node 98 (w=1, x=807, y=625)
+
+CÂY TRUY NHẬP 8:
+  Backbone: Node 82 (w=1, x=600, y=938)
+  Không có nút truy nhập
+
+==================================================
+THUẬT TOÁN HOÀN TẤT
